@@ -1,4 +1,5 @@
 picker= 1
+meow
 class CitaMedica:
     def __init__(self,fecha,motivo,diagnostico="Pendiente"):
         self.fecha=fecha
