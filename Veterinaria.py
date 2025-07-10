@@ -1,5 +1,5 @@
 picker= 1
-aaa a a aaa a a a
+
 class CitaMedica:
     def __init__(self,fecha,motivo,diagnostico="Pendiente"):
         self.fecha=fecha
